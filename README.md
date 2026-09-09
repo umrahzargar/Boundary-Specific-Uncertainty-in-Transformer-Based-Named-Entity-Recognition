@@ -26,8 +26,6 @@ The complete experimental artefact package corresponding to the final dissertati
 
 The Kaggle package contains the saved outputs required by the consolidated experimental pipeline, including model outputs, prediction artefacts, calibration outputs, conformal prediction artefacts, robustness results, locked CoNLL-2003 test outputs, and WNUT-17 replication outputs.
 
-> If the Kaggle dataset is currently private, the link will only be accessible to authorised users until the dataset is made public.
-
 ---
 
 ## Research Pipeline
