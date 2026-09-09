@@ -1,6 +1,4 @@
-Yes — paste this directly into your `README.md` file.
 
-````markdown
 # Boundary-Specific Uncertainty in Transformer-Based Named Entity Recognition
 
 ## From Boundary-Aware to Uncertainty-Adaptive Conformal Scoring
@@ -24,7 +22,7 @@ Due to their size, the full experimental outputs and frozen artefacts are not st
 
 The complete experimental artefact package corresponding to the final dissertation notebooks is hosted on Kaggle:
 
-**[View Experimental Outputs on Kaggle](PASTE_KAGGLE_DATASET_LINK_HERE)**
+**https://www.kaggle.com/datasets/umrahzargar/20793907-umrah-outputs/data**
 
 The Kaggle package contains the saved outputs required by the consolidated experimental pipeline, including model outputs, prediction artefacts, calibration outputs, conformal prediction artefacts, robustness results, locked CoNLL-2003 test outputs, and WNUT-17 replication outputs.
 
